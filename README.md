@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mubarakshaik031
-- 👀 I’m interested in Frontend Web development
-- Front end developer Intern at INFOTRIXS
+- 👀 I’m interested in Frontend Web development and Software Testing
 
 
 <!---
